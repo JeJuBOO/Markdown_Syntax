@@ -18,7 +18,7 @@ title:  "Markdown Syntax"
 [2. Blockquotes](#2-blockquotes)  
 [3. List](#3-list)  
 [4. Code Blocks](#4-code-blocks)  
-[5. Horizontal Rules](#5-horizontal-rules) 
+[5. Horizontal Rules](#5-horizontal-rules)  
 [6. Links](#6-links)  
 [7. Emphasis](#7-emphasis)  
 [8. Images](#8-images)  
