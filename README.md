@@ -385,6 +385,7 @@ ___굵은 기울임___
 * `$$`을 이용하면 수식을 블록으로 중앙 정렬할 수 있다.
 * Github markdown에서 LaTaX 형식을 지원한다.
 * 따라서 [LaTaX문법][wiki latax math]을 알아 봐야겠다.
+* 수식 내에서 중괄호를 쓰기 위해 `\\{` 다음과 같이 작성
 
 [wiki latax math]: https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
